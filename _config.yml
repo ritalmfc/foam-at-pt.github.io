@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            FOAM@PT
 tagline:          'Grupo português de utilizadores da tecnologia OpenFOAM'
-description:      'Página de coordenação do primeiro encontro de utilizadores de CFD e da tecnologia OpenFOAM&reg; em Portugal.'
+description:      'Página de coordenação do primeiro encontro em Portugal de utilizadores de CFD e da tecnologia OpenFOAM&reg;.'
 url:              foam-at-pt.github.io
 baseurl:          /
 
@@ -20,7 +20,7 @@ author:
   emailb:         gmail.com
   
 
-paginate:         5
+paginate:         2
 
 # Custom vars
 github:
