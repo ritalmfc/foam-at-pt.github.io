@@ -9,18 +9,18 @@ relative_permalinks: true
 # Setup
 title:            FOAM@PT
 tagline:          'Grupo português de utilizadores da tecnologia OpenFOAM'
-description:      'Página de coordenação do primeiro encontro de utilizadores da tecnologia OpenFOAM em Portugal.'
+description:      'Página de coordenação do primeiro encontro de utilizadores da tecnologia OpenFOAM&reg; em Portugal.'
 url:              foam-at-pt.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Administrador do grupo'
+  url:            http://foam-at-pt.github.io
+  email:          foam.at.pt@gmail.com
+  
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
-
 github:
   repo:           https://github.com/foam-at-pt/foam-at-pt.github.io
