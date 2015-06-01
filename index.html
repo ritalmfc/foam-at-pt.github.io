@@ -11,10 +11,8 @@ title: Entrada
         {{ post.title }}
       </a>
     </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
     {{ post.content }}
+    <span class="post-date">Data do artigo: {{ page.date |  date: "%d/%m/%Y" }}</span>
   </div>
   {% endfor %}
 </div>
