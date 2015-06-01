@@ -5,7 +5,7 @@ title: Inscrição
 
 O valor da inscrição inclui a participação em todas as atividades do encontro, coffee-breaks (2 por dia) e almoço.
 
-Para se inscrever, envie-nos um email com a informação abaixo para o nosso endereço de email dedicado: TODO
+Para se inscrever, envie-nos um email com a informação abaixo para o nosso endereço de email dedicado: **[{{ site.author.emaila }}@{{ site.author.emailb }}](mailto:{{ site.author.emaila }}@{{ site.author.emailb }})**
 
  * **Inscrição** - Escolha uma das seguintes opções:
    1. Dia 10 de Julho: 30€
