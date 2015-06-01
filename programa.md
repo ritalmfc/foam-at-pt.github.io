@@ -6,9 +6,9 @@ title: Programa do Encontro
 <table>
     <tbody>
     <tr>
-        <td></td>
-        <td colspan="2">10 Julho (sexta-feira)</td>
-        <td>11 Julho (sábado)</td>
+        <th></th>
+        <th colspan="2">10 Julho (sexta-feira)</th>
+        <th>11 Julho (sábado)</th>
     </tr>
     <tr>
         <td>8:45 – 9:00</td>
