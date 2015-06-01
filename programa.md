@@ -17,13 +17,13 @@ title: Programa do Encontro
     </tr>
     <tr>
         <td>9:00 <br> 10:00</td>
-        <td rowspan="2">**Curso Básico em OpenFOAM**</td>
-        <td rowspan="2">**Curso Avançado em OpenFOAM** <br> (com a participação do professor Hrvoje Jasak)</td>
-        <td>**OpenFOAM: History, current capabilities and future perspectives**<br>(Hrvoje Jasak)</td>
+        <td rowspan="2"><b>Curso Básico em OpenFOAM</b></td>
+        <td rowspan="2"><b>Curso Avançado em OpenFOAM</b> <br> (Hrvoje Jasak)</td>
+        <td><b>OpenFOAM: History, current capabilities and future perspectives</b><br>(Hrvoje Jasak)</td>
     </tr>
     <tr>
         <td>10:00 <br> 12:30</td>
-        <td>**Apresentações de trabalhos desenvolvidos em OpenFOAM**</td>
+        <td><b>Apresentações de trabalhos desenvolvidos em OpenFOAM</b></td>
     </tr>
     <tr>
         <td>12:30 <br> 14:00</td>
@@ -31,8 +31,8 @@ title: Programa do Encontro
     </tr>
     <tr>
         <td>14:00 <br> 18:00</td>
-        <td colspan="2">**Apresentações de trabalhos desenvolvidos em OpenFOAM**</td>
-        <td>**Reunião Geral do grupo português de utilizadores de OpenFOAM**</td>
+        <td colspan="2"><b>Apresentações de trabalhos desenvolvidos em OpenFOAM</b></td>
+        <td><b>Reunião Geral do grupo português de utilizadores de OpenFOAM</b></td>
     </tr>
     </tbody>
 </table>
