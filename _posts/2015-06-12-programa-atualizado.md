@@ -9,7 +9,7 @@ A alteração foi a extensão dos cursos básico e avançado que foram extendido
 
 Relembramos que este encontro será aberto a todos os interessados, tanto utilizadores experientes como os que tenham potencial interesse em modelação numérica.
 
-Junte-se ao grupo e verifique de que forma poderá tirar partido da livraria computacional de distribuição livre OpenFOAM.
+Junte-se ao grupo e verifique de que forma poderá tirar partido da biblioteca computacional de distribuição livre OpenFOAM.
 
 Para mais detalhes, veja as seguintes páginas:
 

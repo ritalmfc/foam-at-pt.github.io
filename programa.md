@@ -37,3 +37,5 @@ title: Programa do Encontro
     </tr>
     </tbody>
 </table>
+
+<b>Para facilitar o acompanhamento dos cursos recomenda-se que os participantes utilizem os seus computadores portáteis.</b>

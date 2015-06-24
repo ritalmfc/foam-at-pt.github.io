@@ -12,7 +12,7 @@ Para se inscrever, envie-nos um email com a informação abaixo para o nosso end
   <tr>
     <th>Opção</th>
     <th>Inscrições até 5 de Julho</th>
-    <th>após 5 de Julho</th>
+    <th>Inscrições após 5 de Julho</th>
   </tr>
   <tr>
     <td>1. Dia 10 de Julho</td>
