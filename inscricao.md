@@ -8,13 +8,28 @@ O valor da inscrição inclui a participação em todas as atividades do encontr
 Para se inscrever, envie-nos um email com a informação abaixo para o nosso endereço de email dedicado: **[{{ site.author.emaila }}@{{ site.author.emailb }}](mailto:{{ site.author.emaila }}@{{ site.author.emailb }})**
 
  * **Inscrição** - Escolha uma das seguintes opções:
-
-| Opção | Inscrições até 5 de Julho | após 5 de Julho |
-|:---:|:---:|:---:|
-| 1. Dia 10 de Julho | 30€ | 40 € |
-| 2. Dia 11 de Julho | 30€ | 40 € |
-| 3. Dias 10 e 11 de Julho | 50€ | 60 € |
-
+<table>
+  <tr>
+    <th>Opção</th>
+    <th>Inscrições até 5 de Julho</th>
+    <th>após 5 de Julho</th>
+  </tr>
+  <tr>
+    <td>1. Dia 10 de Julho</td>
+    <td>30€</td>
+    <td>40€</td>
+  </tr>
+  <tr>
+    <td>2. Dia 11 de Julho</td>
+    <td>30€</td>
+    <td>40€</td>
+  </tr>
+  <tr>
+    <td>3. Dias 10 e 11 de Julho</td>
+    <td>50€</td>
+    <td>60€</td>
+  </tr>
+</table>
  * **Nome**
  * **Instituição**
  * **Morada**
