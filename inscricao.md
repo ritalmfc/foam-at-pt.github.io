@@ -40,5 +40,6 @@ Para se inscrever, envie-nos um email com a informação abaixo para o nosso end
  * **Observações** (facultativo)
  * **Apresentação de trabalho (em Português ou Inglês)**: Indique se **sim** ou se **não**.
    * Em caso afirmativo, por favor indique o *Título* e o *Resumo* (máximo 300 palavras).
-   
+ * **Sessões dos cursos a que pretendem assistir**: Indicar a identificação das sessões listadas no [Programa das Sessões de Treino](/programa/#programa-das-sessões-de-treino)
+
 **Nota**: Instruções de pagamento serão enviadas de resposta ao seu email.
