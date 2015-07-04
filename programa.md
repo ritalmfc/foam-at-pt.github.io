@@ -6,6 +6,8 @@ title: Programa do Encontro
   * [Programa Geral](#programa-geral)
   * [Programa das Sessões de Treino](#programa-das-sessões-de-treino)
 
+<br>
+
 ## Programa Geral
 
 <table>
@@ -45,10 +47,11 @@ title: Programa do Encontro
 
 <b>Para facilitar o acompanhamento dos cursos recomenda-se que os participantes utilizem os seus computadores portáteis.</b>
 
+<br>
 
 ## Programa das Sessões de Treino
 
-<b>Quando se inscreverem ou mesmo estando já inscritos, por favor indiquem quais os blocos de cursos a que pretendem assistir.</b>
+Quando se inscreverem ou mesmo estando já inscritos, por favor indiquem quais os blocos de cursos a que pretendem assistir:
 
 <table>
   <tr>
@@ -60,8 +63,8 @@ title: Programa do Encontro
     <td>A1. Implementação de um solver</td>
   </tr>
   <tr>
-    <td>B2. Geração de malha com o [blockMesh](http://cfd.direct/openfoam/user-guide/blockMesh/) (OpenFOAM)</td>
-    <td>A2. Geração de malha com o [cfMesh](http://www.c-fields.com/cfmesh)</b> (open-source)</td>
+    <td>B2. Geração de malha com o <a href="http://cfd.direct/openfoam/user-guide/blockMesh/">blockMesh</a> (OpenFOAM)</td>
+    <td>A2. Geração de malha com o <a href="http://www.c-fields.com/cfmesh">cfMesh</a> (open-source)</td>
   </tr>
   <tr>
     <td>B3. Pós-processamento</td>
