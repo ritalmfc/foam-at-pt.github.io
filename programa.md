@@ -3,6 +3,11 @@ layout: page
 title: Programa do Encontro
 ---
 
+  * [Programa Geral](#programa-geral)
+  * [Programa das Sessões de Treino](#programa-das-sessões-de-treino)
+
+## Programa Geral
+
 <table>
     <tbody>
     <tr>
@@ -39,3 +44,31 @@ title: Programa do Encontro
 </table>
 
 <b>Para facilitar o acompanhamento dos cursos recomenda-se que os participantes utilizem os seus computadores portáteis.</b>
+
+
+## Programa das Sessões de Treino
+
+<b>Quando se inscreverem ou mesmo estando já inscritos, por favor indiquem quais os blocos de cursos a que pretendem assistir.</b>
+
+<table>
+  <tr>
+    <th>Curso Básico</th>
+    <th>Curso Avançado</th>
+  </tr>
+  <tr>
+    <td>B1. Introdução ao OpenFOAM</td>
+    <td>A1. Implementação de um solver</td>
+  </tr>
+  <tr>
+    <td>B2. Geração de malha com o [blockMesh](http://cfd.direct/openfoam/user-guide/blockMesh/) (OpenFOAM)</td>
+    <td>A2. Geração de malha com o [cfMesh](http://www.c-fields.com/cfmesh)</b> (open-source)</td>
+  </tr>
+  <tr>
+    <td>B3. Pós-processamento</td>
+    <td>A3. Discretization: Best Practises (Hrvoje Jasak)</td>
+  </tr>
+  <tr>
+    <td>B4. <i>Engine Block</i> (e.g. estudos de convergência) (Hrvoje Jasak)</td>
+    <td>A4. swak4Foam and pyFoam</td>
+  </tr>
+</table>
