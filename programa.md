@@ -59,19 +59,19 @@ Quando se inscreverem ou mesmo estando já inscritos, por favor indiquem quais o
     <th>Curso Avançado</th>
   </tr>
   <tr>
-    <td style="text-align: left;">B1. Introdução ao OpenFOAM</td>
-    <td style="text-align: left;">A1. Implementação de um solver</td>
+    <td style="text-align: left;"><b>B1.</b> Introdução ao OpenFOAM</td>
+    <td style="text-align: left;"><b>A1.</b> Implementação de um solver</td>
   </tr>
   <tr>
-    <td style="text-align: left;">B2. Geração de malha com o <a href="http://cfd.direct/openfoam/user-guide/blockMesh/">blockMesh</a> (OpenFOAM)</td>
-    <td style="text-align: left;">A2. Geração de malha com o <a href="http://www.c-fields.com/cfmesh">cfMesh</a> (open-source)</td>
+    <td style="text-align: left;"><b>B2.</b> Geração de malha com o <a href="http://cfd.direct/openfoam/user-guide/blockMesh/">blockMesh</a> (OpenFOAM)</td>
+    <td style="text-align: left;"><b>A2.</b> Geração de malha com o <a href="http://www.c-fields.com/cfmesh">cfMesh</a> (open-source)</td>
   </tr>
   <tr>
-    <td style="text-align: left;">B3. Pós-processamento</td>
-    <td style="text-align: left;">A3. Discretization: Best Practises (Hrvoje Jasak)</td>
+    <td style="text-align: left;"><b>B3.</b> Pós-processamento</td>
+    <td style="text-align: left;"><b>A3.</b> Discretization: Best Practises (Hrvoje Jasak)</td>
   </tr>
   <tr>
-    <td style="text-align: left;">B4. <i>Engine Block</i> (e.g. estudos de convergência) (Hrvoje Jasak)</td>
-    <td style="text-align: left;">A4. swak4Foam and pyFoam</td>
+    <td style="text-align: left;"><b>B4.</b> <i>Engine Block</i> (e.g. estudos de convergência) (Hrvoje Jasak)</td>
+    <td style="text-align: left;"><b>A4.</b> swak4Foam and pyFoam</td>
   </tr>
 </table>
