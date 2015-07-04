@@ -8,7 +8,7 @@ title: Programa do Encontro
 
 <br>
 
-## Programa Geral
+<h2 id="programa-geral">Programa Geral</h2>
 
 <table>
     <tbody>
@@ -49,7 +49,7 @@ title: Programa do Encontro
 
 <br>
 
-## Programa das Sessões de Treino
+<h2 id="programa-das-sessões-de-treino">Programa das Sessões de Treino</h2>
 
 Quando se inscreverem ou mesmo estando já inscritos, por favor indiquem quais os blocos de cursos a que pretendem assistir:
 
