@@ -60,11 +60,11 @@ Quando se inscreverem ou mesmo estando já inscritos, por favor indiquem quais o
   </tr>
   <tr>
     <td style="text-align: left;"><b>B1.</b> Introdução ao OpenFOAM</td>
-    <td style="text-align: left;"><b>A1.</b> Implementação de um solver</td>
+    <td style="text-align: left;"><b>A1.</b> Geração de malha com o <a href="http://www.c-fields.com/cfmesh">cfMesh</a> (open-source)</td>
   </tr>
   <tr>
     <td style="text-align: left;"><b>B2.</b> Geração de malha com o <a href="http://cfd.direct/openfoam/user-guide/blockMesh/">blockMesh</a> (OpenFOAM)</td>
-    <td style="text-align: left;"><b>A2.</b> Geração de malha com o <a href="http://www.c-fields.com/cfmesh">cfMesh</a> (open-source)</td>
+    <td style="text-align: left;"><b>A2.</b> swak4Foam and pyFoam</td>
   </tr>
   <tr>
     <td style="text-align: left;"><b>B3.</b> Pós-processamento</td>
@@ -72,6 +72,6 @@ Quando se inscreverem ou mesmo estando já inscritos, por favor indiquem quais o
   </tr>
   <tr>
     <td style="text-align: left;"><b>B4.</b> <i>Engine Block</i> (e.g. estudos de convergência) (Hrvoje Jasak)</td>
-    <td style="text-align: left;"><b>A4.</b> swak4Foam and pyFoam</td>
+    <td style="text-align: left;"><b>A4.</b> Implementação de um solver</td>
   </tr>
 </table>
