@@ -59,7 +59,14 @@ Quando se inscreverem ou mesmo estando já inscritos, por favor indiquem quais o
     <th>Curso Avançado</th>
   </tr>
   <tr>
-    <td style="text-align: left;"><b>B1.</b> Introdução ao OpenFOAM</td>
+    <td style="text-align: left;">
+      <b>B1.</b> Introdução ao OpenFOAM
+      <br>
+      <ul>
+      <li>Apresentação: <a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/primeiroEncontro/B1-slides.pdf">B1-slides.pdf</a></li>
+      <li>Material da sessão: <a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/primeiroEncontro/B1-applications-and-temperature.tar.gz">B1-applications-and-temperature.tar.gz</a></li>
+      </ul>
+    </td>
     <td style="text-align: left;"><b>A1.</b> Implementação de um solver</td>
   </tr>
   <tr>
@@ -75,3 +82,17 @@ Quando se inscreverem ou mesmo estando já inscritos, por favor indiquem quais o
     <td style="text-align: left;"><b>A4.</b> swak4Foam and pyFoam</td>
   </tr>
 </table>
+
+<b>Notas:</b>
+
+  * As apresentações e material de cada sessão só foram disponibilizados online no dia 1 de Setembro de 2015.
+  * Aconselhamos a criarem uma pasta para cada sessão, colocar o material disponibilizado dentro da pasta respectiva e depois extrair o pacote dentro da dita pasta. Por exemplo:
+
+  ```
+  mkdir B1
+  cd B1
+  mv ../B1-applications-and-temperature.tar.gz ./
+  tar -xzf B1-applications-and-temperature.tar.gz
+  ```
+
+  * O material providenciado foi planeado para ser utilizado em Linux com o foam-extend 3.2, no entanto deverá também funcionar em Windows e Mac OS X.
