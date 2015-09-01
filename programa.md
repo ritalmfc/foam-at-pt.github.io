@@ -63,23 +63,82 @@ Quando se inscreverem ou mesmo estando já inscritos, por favor indiquem quais o
       <b>B1.</b> Introdução ao OpenFOAM
       <br>
       <ul>
-      <li>Apresentação: <a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/primeiroEncontro/B1-slides.pdf">B1-slides.pdf</a></li>
-      <li>Material da sessão: <a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/primeiroEncontro/B1-applications-and-temperature.tar.gz">B1-applications-and-temperature.tar.gz</a></li>
+      <li>Apresentação: <a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/B1-slides.pdf">B1-slides.pdf</a></li>
+      <li>Material da sessão: <a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/B1-applications-and-temperature.tar.gz">B1-applications-and-temperature.tar.gz</a></li>
       </ul>
     </td>
-    <td style="text-align: left;"><b>A1.</b> Geração de malha com o <a href="http://www.c-fields.com/cfmesh">cfMesh</a> (open-source)</td>
+    <td style="text-align: left;">
+      <b>A1.</b> Geração de malha com o <a href="http://www.c-fields.com/cfmesh">cfMesh</a> (open-source)
+      <br>
+      <ul>
+      <li>Apresentação: <a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/A1-slides.pdf">A1-slides.pdf</a></li>
+      <li>Material da sessão:
+        <ul>
+        <li><a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/A1-introductoryExamples.tar.gz">A1-introductoryExamples.tar.gz</a></li>
+        <li><a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/A1-trainingExamples.tar.gz">A1-trainingExamples.tar.gz</a></li>
+        </ul>
+      </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td style="text-align: left;"><b>B2.</b> Geração de malha com o <a href="http://cfd.direct/openfoam/user-guide/blockMesh/">blockMesh</a> (OpenFOAM)</td>
-    <td style="text-align: left;"><b>A2.</b> swak4Foam and pyFoam</td>
+    <td style="text-align: left;">
+      <b>B2.</b> Geração de malha com o <a href="http://cfd.direct/openfoam/user-guide/blockMesh/">blockMesh</a> (OpenFOAM)
+      <br>
+      <ul>
+      <li>Apresentação: <a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/B2-slides.pdf">B2-slides.pdf</a></li>
+      </ul>
+    </td>
+    <td style="text-align: left;">
+      <b>A2.</b> swak4Foam and pyFoam
+      <br>
+      <ul>
+      <li>Apresentação: <a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/A2-slides.pdf">A2-slides.pdf</a></li>
+      <li>Material da sessão: <a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/A2-cases.tar.gz">A2-cases.tar.gz</a></li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td style="text-align: left;"><b>B3.</b> Pós-processamento</td>
-    <td style="text-align: left;"><b>A3.</b> Discretization: Best Practises (Hrvoje Jasak)</td>
+    <td style="text-align: left;">
+      <b>B3.</b> Pós-processamento
+      <br>
+      <ul>
+      <li>Apresentação: <a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/B3-slides.pdf">B3-slides.pdf</a></li>
+      <li>Material da sessão:
+        <ul>
+        <li><a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/B3-cavity.tar.gz">B3-cavity.tar.gz</a></li>
+        <li><a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/B3-damBreak3D.tar.gz">B3-damBreak3D.tar.gz</a></li>
+        <li><a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/B3-goldschmidt.tar.gz">B3-goldschmidt.tar.gz</a></li>
+        <li><a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/B3-motorBike.tar.gz">B3-motorBike.tar.gz</a></li>
+        <li><a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/B3-propeller.tar.gz">B3-propeller.tar.gz</a></li>
+        </ul>
+      </li>
+      </ul>
+    </td>
+    <td style="text-align: left;">
+      <b>A3.</b> Discretization: Best Practises (Hrvoje Jasak)
+      <br>
+      <ul>
+      <li>Apresentação: <a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/A3-slides.pdf">A3-slides.pdf</a></li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td style="text-align: left;"><b>B4.</b> <i>Engine Block</i> (e.g. estudos de convergência) (Hrvoje Jasak)</td>
-    <td style="text-align: left;"><b>A4.</b> Implementação de um solver</td>
+    <td style="text-align: left;">
+      <b>B4.</b> <i>Engine Block</i> (e.g. estudos de convergência) (Hrvoje Jasak)
+      <br>
+      <ul>
+      <li>Material da sessão: <a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/B4-FOAM@PT-engineCooling.tgz">B4-FOAM@PT-engineCooling.tgz</a></li>
+      </ul>
+    </td>
+    <td style="text-align: left;">
+      <b>A4.</b> Implementação de um solver
+      <br>
+      <ul>
+      <li>Apresentação: <a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/A4-Slides.pdf">A4-Slides.pdf</a></li>
+      <li>Material da sessão: <a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/A4-blockMeshDict-and-patchaveragestd.tar.gz">A4-blockMeshDict-and-patchaveragestd.tar.gz</a></li>
+      </ul>
+    </td>
   </tr>
 </table>
 
