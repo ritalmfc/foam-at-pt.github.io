@@ -128,7 +128,7 @@ Quando se inscreverem ou mesmo estando já inscritos, por favor indiquem quais o
       <b>B4.</b> <i>Engine Block</i> (e.g. estudos de convergência) (Hrvoje Jasak)
       <br>
       <ul>
-      <li>Material da sessão: <a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/B4-FOAM@PT-engineCooling.tgz">B4-FOAM@PT-engineCooling.tgz</a></li>
+      <li>Material da sessão: <a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/B4-FOAM.PT-engineCooling.tgz">B4-FOAM.PT-engineCooling.tgz</a></li>
       </ul>
     </td>
     <td style="text-align: left;">
