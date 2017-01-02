@@ -103,7 +103,8 @@ Quando se inscreverem ou mesmo estando já inscritos, por favor indiquem quais o
       <li>Material da sessão:
         <ul>
         <li><a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/B3-cavity.tar.gz">B3-cavity.tar.gz</a></li>
-        <li><a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/B3-damBreak3D.tar.gz">B3-damBreak3D.tar.gz</a></li>
+        <li><a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/B3-damBreak3D.tar.gz">B3-damBreak3D.tar.gz</a> (Para simular com o OpenFOAM 2.3.1)</li>
+        <li><a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/B3-damBreak3Dv2.tar.gz">B3-damBreak3Dv2.tar.gz</a> (Para simular com o OpenFOAM 3.0.x)</li>
         <li><a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/B3-goldschmidt.tar.gz">B3-goldschmidt.tar.gz</a></li>
         <li><a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/B3-motorBike.tar.gz">B3-motorBike.tar.gz</a></li>
         <li><a href="https://github.com/foam-at-pt/foam-at-pt.github.io/releases/download/PrimeiroEncontro/B3-propeller.tar.gz">B3-propeller.tar.gz</a></li>
